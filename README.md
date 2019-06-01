@@ -1,10 +1,8 @@
 # ChangeLog
 Projeto MuServer 1.02i Pré Season 2
 
-// ==============================================================
-// # | - Fix & Other's
-// ==============================================================
-// # [GS And GSCS] - M:\ Drive
+ | - Fix & Other's
+ M:\ Drive
 // # [GS And GSCS] - DestroyGIocp (Error - L10)
 // # [GS And GSCS] - CGameServer Auth (0x00000 Memory Error)
 // # [GS And GSCS] - ProtocolCore (Socket Serial Error)
